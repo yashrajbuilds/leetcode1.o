@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashrajbuilds/leetcode1.o/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Array
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/yashrajbuilds/leetcode1.o/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/yashrajbuilds/leetcode1.o/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
