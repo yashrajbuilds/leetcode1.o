@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/yashrajbuilds/leetcode1.o/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3917-count-indices-with-opposite-parity](https://github.com/yashrajbuilds/leetcode1.o/tree/master/3917-count-indices-with-opposite-parity) |
+| [3920-maximize-fixed-points-after-deletions](https://github.com/yashrajbuilds/leetcode1.o/tree/master/3920-maximize-fixed-points-after-deletions) |
 ## Matrix
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/yashrajbuilds/leetcode1.o/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+## Binary Search
+|  |
+| ------- |
+| [3920-maximize-fixed-points-after-deletions](https://github.com/yashrajbuilds/leetcode1.o/tree/master/3920-maximize-fixed-points-after-deletions) |
+## Sorting
+|  |
+| ------- |
+| [3920-maximize-fixed-points-after-deletions](https://github.com/yashrajbuilds/leetcode1.o/tree/master/3920-maximize-fixed-points-after-deletions) |
 <!---LeetCode Topics End-->
