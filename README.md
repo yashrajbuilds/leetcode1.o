@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/yashrajbuilds/leetcode1.o/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3917-count-indices-with-opposite-parity](https://github.com/yashrajbuilds/leetcode1.o/tree/master/3917-count-indices-with-opposite-parity) |
 ## Matrix
 |  |
 | ------- |
