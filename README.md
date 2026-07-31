@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yashrajbuilds/leetcode1.o/tree/master/0002-add-two-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashrajbuilds/leetcode1.o/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/yashrajbuilds/leetcode1.o/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## String
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yashrajbuilds/leetcode1.o/tree/master/0002-add-two-numbers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashrajbuilds/leetcode1.o/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashrajbuilds/leetcode1.o/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/yashrajbuilds/leetcode1.o/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
