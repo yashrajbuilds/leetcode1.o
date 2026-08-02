@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashrajbuilds/leetcode1.o/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/yashrajbuilds/leetcode1.o/tree/master/0005-longest-palindromic-substring) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/yashrajbuilds/leetcode1.o/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/yashrajbuilds/leetcode1.o/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashrajbuilds/leetcode1.o/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashrajbuilds/leetcode1.o/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/yashrajbuilds/leetcode1.o/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/yashrajbuilds/leetcode1.o/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
