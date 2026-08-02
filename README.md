@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashrajbuilds/leetcode1.o/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashrajbuilds/leetcode1.o/tree/master/0004-median-of-two-sorted-arrays) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/yashrajbuilds/leetcode1.o/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3917-count-indices-with-opposite-parity](https://github.com/yashrajbuilds/leetcode1.o/tree/master/3917-count-indices-with-opposite-parity) |
 | [3920-maximize-fixed-points-after-deletions](https://github.com/yashrajbuilds/leetcode1.o/tree/master/3920-maximize-fixed-points-after-deletions) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashrajbuilds/leetcode1.o/tree/master/0004-median-of-two-sorted-arrays) |
 | [3920-maximize-fixed-points-after-deletions](https://github.com/yashrajbuilds/leetcode1.o/tree/master/3920-maximize-fixed-points-after-deletions) |
 ## Sorting
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashrajbuilds/leetcode1.o/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashrajbuilds/leetcode1.o/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
